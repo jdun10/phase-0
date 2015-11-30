@@ -1,2 +1,58 @@
+<<<<<<< HEAD
+html {
+  background-color: white;
+  color: #000080
+  
+}
+
+li > a: visited {
+    color: #ff0000;
+}
+
+a: link {
+    color: #800080;
+}
+
+
+.small-font {
+    font-size: 10px
+}
+
+.heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 28px;
+    
+}
+
+.first_letter {
+    font-size: 40px;
+    display: inline-block
+}
+
+.geico-break {
+    display: block;
+    margin: auto
+}
+
+.geico-font {
+    font-size: 10px;
+    text-align: center
+}
+
+/*  What is important to know when linking an external file to an HTML file?
+      The proper link tag.
+    What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+      Just that text align is pretty useful and simple.
+    What css did you use to modify the element style?
+      Size, color, font-weight
+    Did you modify the HTML to include classes or ids? Why?
+      We used classes but no ids in order to change them specifically like making the B & H bigger.
+    When you compared your site to the actual code base, which do you think had cleaner code that 
+    followed best practices and why?
+      I definitely think the actual code was cleaner. It was far more organized even if it was more complicated.
+*/
+=======
 {
 }
+>>>>>>> wireframing_feature
