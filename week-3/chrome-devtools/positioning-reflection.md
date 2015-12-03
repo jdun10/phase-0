@@ -16,3 +16,10 @@ What was your impression of this challenge overall? (love, hate, and why?)
 	Border: the positive space at the edge of an element
 	Padding: the negative space at the edge of an element.
 	I thought that this challenge was a good addition. At this stage, positioning is a lot of guess-and-check for me, and this challenge helped me to familiarize myself with many of the positioning terminology. In some ways, I really liked it because I enjoyed being able to change a few things and then immediately see what the effect would be. However, I was getting annoyed whenever Div 1 would override the other commands.
+	
+I'm still working on how to put in images inline, but here are the links for my screenshots:
+https://github.com/jdun10/phase-0/blob/master/week-2/imgs/3.4-colors-and-column.png
+https://github.com/jdun10/phase-0/blob/master/week-2/imgs/3.4-freestyle.png
+https://github.com/jdun10/phase-0/blob/master/week-2/imgs/3.4-squaresfooter.png
+https://github.com/jdun10/phase-0/blob/master/week-2/imgs/3.4-header-sidebar.png
+https://github.com/jdun10/phase-0/blob/master/week-2/imgs/3.4-row-equidistant.png
