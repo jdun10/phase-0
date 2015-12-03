@@ -1,0 +1,29 @@
+header {
+  background-color: blue;
+  font-family: Courier;
+}
+
+.column-1 {
+  background-color: green;
+  float: left;
+  width: 50%;
+}
+
+.column-2 {
+  background-color: purple;
+  float: right;
+  width: 50%;
+}
+
+img {
+  height: auto;
+  width: auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+footer {
+  background-color: red;
+  clear: both;
+  font-weight: bold;
+}
