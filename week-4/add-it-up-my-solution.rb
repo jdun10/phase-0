@@ -1,18 +1,11 @@
 # I worked on this challenge with David Rothschild.
 
-def total(array)
-  total = 0
-  array.each {|a| total += a}
-  total
-end
 
 # Add it up!
 
 # Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code
 # is commented in the file.
-
-# I worked on this challenge [by myself, with: ].
 
 # 0. total Pseudocode
 # make sure all pseudocode is commented out!
@@ -26,11 +19,11 @@ end
 # set total = 0
 #  to add 1st number to total, then 2nd number, 3rd number and so on
 
-# def total(array)
- # total = 0
- # array.each {|a| total += a}
- # total
-# end
+ def total(array)
+  total = 0
+  array.each {|a| total += a}
+  total
+ end
 
 
 # 3. total refactored solution
