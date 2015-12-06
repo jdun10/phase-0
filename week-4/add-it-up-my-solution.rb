@@ -1,3 +1,5 @@
+# I worked on this challenge with David Rothschild.
+
 def total(array)
   total = 0
   array.each {|a| total += a}
