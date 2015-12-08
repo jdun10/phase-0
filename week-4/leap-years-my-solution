@@ -1,0 +1,13 @@
+# I worked on this challenge by myself
+
+def leap_year?(n)
+  if n % 4 == 0 && n % 100 != 0
+    puts true
+  elsif n % 400 == 0
+    puts true
+  else n % 4 == 0 && n % 100 == 0 && n % 400 != 0
+    puts false
+  end
+end
+
+leap_year?(2014)
