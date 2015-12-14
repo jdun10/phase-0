@@ -45,11 +45,11 @@ end
 # def my_array_splitting_method(source)
 #   nums = []
 #   words = []
-#   source.each { |x| 
+#   source.each { |i| 
 #     if i.is_a? String
-#       words.push x
+#       words.push i
 #     else
-#       nums.push x
+#       nums.push i
 #     end
 #   }
 #   return nums, words
@@ -59,11 +59,11 @@ end
 def my_array_splitting_method(source)
   nums = []
   words = []
-  source.each { |x| 
+  source.each { |i| 
     if i.is_a? String
-      words << x
+      words << i
     else
-      nums << x
+      nums << i
     end
   }
   return nums, words
