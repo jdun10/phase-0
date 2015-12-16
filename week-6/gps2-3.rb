@@ -1,8 +1,7 @@
-# Your Names
-# 1)
-# 2)
+# Your Name
+# 1) Jill Dunleavy
 
-# We spent [#] hours on this challenge.
+# I spent 1.5 hours on this challenge.
 
 # Bakery Serving Size portion calculator.
 
