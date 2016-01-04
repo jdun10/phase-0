@@ -85,3 +85,19 @@ alaska.virus_effects
 
 #=======================================================================
 # Reflection Section
+# What are the differences between the two different hash syntaxes shown in the state_data file?
+# => The greater array uses a rocket to organize values to the keys. The array nested within the greater one uses the colon syntax to assign values to the population and population density keys.
+
+# What does require_relative do? How is it different from require?
+# => Require_relative is a division of require. It allows you to load a file that has been properly formatted to be used for the specific program that you are running.
+
+# What are some ways to iterate through a hash?
+# => each do; you could also list the keys of the hash and instruct it to print the values
+
+# When refactoring virus_effects, what stood out to you about the variables, if anything?
+# => We didn't do much to refactor our solution, but I thought that our variables were already very readable. 
+
+# What concept did you most solidify in this challenge?
+# => I think that the importance of hashes and treating them as a large group of data was solidified. When dealing with smaller hashes, it can be tempting to write something
+# => that isn't very versatile because it could be easier than writing out something that would function for the whole hash, but writing out the data for every state would have
+# => taken far too long and becoming more comfortable with treating the data en masse is beneficial.
