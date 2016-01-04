@@ -1,7 +1,7 @@
 // Separate Numbers with Commas in JavaScript **Pairing Challenge**
 
 
-// I worked on this challenge with: Thomas Huan.
+// I worked on this challenge with: Thomas Huang.
 
 // Pseudocode
 // Convert the number into a string and put it into an array.
